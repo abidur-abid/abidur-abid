@@ -10,7 +10,7 @@ My academic background might be in Local Government and Urban Development, but m
 
 In a world where the internet is an ever-evolving canvas, I pride myself on being a lifelong learner, constantly updating my skill set to stay at the forefront of technology trends🌟.
 
-🔥My latest projects🔥
+🔥My latest projects🔥<br>
 Sadik Hasan Shuvo: https://sadikhasan.vercel.app/
 Alphanauten: https://alphanauten.netlify.app/
 LGUD: https://lgud.vercel.app/
