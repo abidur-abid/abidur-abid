@@ -11,15 +11,15 @@ My academic background might be in Local Government and Urban Development, but m
 In a world where the internet is an ever-evolving canvas, I pride myself on being a lifelong learner, constantly updating my skill set to stay at the forefront of technology trends🌟.
 
 🔥My latest projects🔥<br>
-Sadik Hasan Shuvo: https://sadikhasan.vercel.app/
-Alphanauten: https://alphanauten.netlify.app/
-LGUD: https://lgud.vercel.app/
+Sadik Hasan Shuvo: https://sadikhasan.vercel.app/ <br>
+Alphanauten: https://alphanauten.netlify.app/ <br>
+LGUD: https://lgud.vercel.app/ <br>
 
 🔥 My Skills🔥<br>
 
-HTML | CSS | Tailwind CSS | JavaScript| React JS | Firebase | Next JS | MongoDB.
-Git | GitHub
-Front-end Development | Web Application Development | Responsive Design | User Authentication
+HTML | CSS | Tailwind CSS | JavaScript| React JS | Firebase | Next JS | MongoDB. <br>
+Git | GitHub <br>
+Front-end Development | Web Application Development | Responsive Design | User Authentication <br>
 Implementation | Team Collaboration | Problem-Solving Skills
 
 
