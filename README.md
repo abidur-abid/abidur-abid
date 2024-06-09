@@ -1,5 +1,6 @@
 ## Hi, I'm Ali Hossain 👋
-[<img src='https://media.licdn.com/dms/image/D5616AQH2I7jQdvVozw/profile-displaybackgroundimage-shrink_350_1400/0/1713112038962?e=1723680000&v=beta&t=L3vqPIBhdNWPcxSGXjDsLOQL2OnA6mrHyieImBq6KHQ']
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+<p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
