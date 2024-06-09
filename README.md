@@ -13,20 +13,20 @@ In a world where the internet is an ever-evolving canvas, I pride myself on bein
 🔥My latest projects🔥<br>
 Sadik Hasan Shuvo: https://sadikhasan.vercel.app/ <br>
 Alphanauten: https://alphanauten.netlify.app/ <br>
-LGUD: https://lgud.vercel.app/ <br><br><br>
+LGUD: https://lgud.vercel.app/ <br><br>
 
 🔥 My Skills🔥<br>
 
 HTML | CSS | Tailwind CSS | JavaScript| React JS | Firebase | Next JS | MongoDB. <br>
 Git | GitHub <br>
 Front-end Development | Web Application Development | Responsive Design | User Authentication <br>
-Implementation | Team Collaboration | Problem-Solving Skills <br><br><br>
+Implementation | Team Collaboration | Problem-Solving Skills <br><br>
 
 
 ✨Know more about me: https://abidurabid.vercel.app/ <br>
 ✨My GitHub: https://github.com/abidur-abid <br><br><br>
 
-✨Email: abidur.abid40@gmail.com <br><br><br>
+✨Email: abidur.abid40@gmail.com <br><br>
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML, CSS, JavaScript <br> 
